@@ -94,5 +94,4 @@ Click the button below to open this project directly in Visual Studio Code:
 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VSCode-blue?logo=visualstudiocode)](https://github.dev/KadamTejashwini21/Squid-Game-Gaint-Doll)
 
-Click the button above to open this project in [Visual Studio Code for the Web](https://github.dev).  
-This allows you to explore and edit the code directly in your browser without needing to clone the repository.
+
