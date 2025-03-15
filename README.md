@@ -8,7 +8,7 @@
 - **Prerequisites**: Lists the tools and knowledge required to run the project.
 - **Technologies Used**: Describes the libraries and technologies used in the project.
 - **File Structure**: Shows the organization of files and folders.
-- **Credits**: Acknowledges resources and provides links for further exploration.
+   Acknowledges resources and provides links for further exploration.
 
 
 # Red Light, Green Light Game (Squid Game Inspired)
